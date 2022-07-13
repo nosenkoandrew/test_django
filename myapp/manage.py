@@ -2,6 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+
 import django  # noqa # pylint: disable=unused-import # fmt: off # isort:skip
 
 
