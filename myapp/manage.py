@@ -3,7 +3,7 @@
 import os
 import sys
 
-import django  # noqa # pylint: disable=unused-import # fmt: off # isort:skip
+import django  # noqa # pylint: disable=unused-import
 
 
 def main():
